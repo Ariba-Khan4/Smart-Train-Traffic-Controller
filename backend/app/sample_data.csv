@@ -1,0 +1,51 @@
+train_id,train_name,source,destination,scheduled_departure,scheduled_arrival,platform,status
+TR0001,Express 1,Mumbai,Pune,07:00,10:00,1,On Time
+TR0002,Express 2,Delhi,Jaipur,07:01,10:01,2,On Time
+TR0003,Express 3,Bangalore,Mysore,07:02,10:02,3,On Time
+TR0004,Express 4,Chennai,Hyderabad,07:03,10:03,4,On Time
+TR0005,Express 5,Kolkata,Patna,07:04,10:04,5,On Time
+TR0006,Express 6,Mumbai,Pune,08:05,11:05,6,On Time
+TR0007,Express 7,Delhi,Jaipur,08:06,11:06,7,On Time
+TR0008,Express 8,Bangalore,Mysore,08:07,11:07,8,On Time
+TR0009,Express 9,Chennai,Hyderabad,08:08,11:08,9,On Time
+TR0010,Express 10,Kolkata,Patna,08:09,11:09,10,On Time
+TR0011,Express 11,Mumbai,Pune,09:10,12:10,1,On Time
+TR0012,Express 12,Delhi,Jaipur,09:11,12:11,2,On Time
+TR0013,Express 13,Bangalore,Mysore,09:12,12:12,3,On Time
+TR0014,Express 14,Chennai,Hyderabad,09:13,12:13,4,On Time
+TR0015,Express 15,Kolkata,Patna,09:14,12:14,5,On Time
+TR0016,Express 16,Mumbai,Pune,10:15,13:15,6,On Time
+TR0017,Express 17,Delhi,Jaipur,10:16,13:16,7,On Time
+TR0018,Express 18,Bangalore,Mysore,10:17,13:17,8,On Time
+TR0019,Express 19,Chennai,Hyderabad,10:18,13:18,9,On Time
+TR0020,Express 20,Kolkata,Patna,10:19,13:19,10,On Time
+TR0021,Express 21,Mumbai,Pune,11:20,14:20,1,On Time
+TR0022,Express 22,Delhi,Jaipur,11:21,14:21,2,On Time
+TR0023,Express 23,Bangalore,Mysore,11:22,14:22,3,On Time
+TR0024,Express 24,Chennai,Hyderabad,11:23,14:23,4,On Time
+TR0025,Express 25,Kolkata,Patna,11:24,14:24,5,On Time
+TR0026,Express 26,Mumbai,Pune,12:25,15:25,6,On Time
+TR0027,Express 27,Delhi,Jaipur,12:26,15:26,7,On Time
+TR0028,Express 28,Bangalore,Mysore,12:27,15:27,8,On Time
+TR0029,Express 29,Chennai,Hyderabad,12:28,15:28,9,On Time
+TR0030,Express 30,Kolkata,Patna,12:29,15:29,10,On Time
+TR0031,Express 31,Mumbai,Pune,13:30,16:30,1,On Time
+TR0032,Express 32,Delhi,Jaipur,13:31,16:31,2,On Time
+TR0033,Express 33,Bangalore,Mysore,13:32,16:32,3,On Time
+TR0034,Express 34,Chennai,Hyderabad,13:33,16:33,4,On Time
+TR0035,Express 35,Kolkata,Patna,13:34,16:34,5,On Time
+TR0036,Express 36,Mumbai,Pune,14:35,17:35,6,On Time
+TR0037,Express 37,Delhi,Jaipur,14:36,17:36,7,On Time
+TR0038,Express 38,Bangalore,Mysore,14:37,17:37,8,On Time
+TR0039,Express 39,Chennai,Hyderabad,14:38,17:38,9,On Time
+TR0040,Express 40,Kolkata,Patna,14:39,17:39,10,On Time
+TR0041,Express 41,Mumbai,Pune,15:40,18:40,1,Delayed
+TR0042,Express 42,Delhi,Jaipur,15:41,18:41,2,Delayed
+TR0043,Express 43,Bangalore,Mysore,15:42,18:42,3,Delayed
+TR0044,Express 44,Chennai,Hyderabad,15:43,18:43,4,Delayed
+TR0045,Express 45,Kolkata,Patna,15:44,18:44,5,Delayed
+TR0046,Express 46,Mumbai,Pune,16:45,19:45,6,Delayed
+TR0047,Express 47,Delhi,Jaipur,16:46,19:46,7,Delayed
+TR0048,Express 48,Bangalore,Mysore,16:47,19:47,8,Delayed
+TR0049,Express 49,Chennai,Hyderabad,16:48,19:48,9,Delayed
+TR0050,Express 50,Kolkata,Patna,16:49,19:49,10,Delayed
