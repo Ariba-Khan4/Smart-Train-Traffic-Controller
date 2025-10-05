@@ -181,14 +181,6 @@ Contributions welcome! Please submit pull requests.
 
 MIT License - free for hackathons and personal use
 
-## 👥 Team
-
-Built for Railway Automation Hackathon 2025
-
-## 📧 Contact
-
-For queries: contact@traincontroller.com
-
 ---
 
 **Built with ❤️ using FastAPI, Streamlit & Docker**
